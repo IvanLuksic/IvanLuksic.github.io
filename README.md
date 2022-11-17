@@ -15,5 +15,5 @@
 ### Introduction to machine learning - Breast cancer classification 
 - [Repository](https://github.com/brunogrbavac/BreastCancerClassification)
 
-### Computer intelligence - Echocardiogram segmentation - Code dissemination 
+### Computational intelligence - Echocardiogram segmentation - Code dissemination 
 - [Colaboratory](https://colab.research.google.com/drive/1LtSaJN4dbfKi_GxSPR-k3ukVkU2RT5sF?usp=sharing)
