@@ -1,4 +1,4 @@
-# 📂 Seminari 
+# 📂 Seminars/projects 
 
 ### Data stuctures - Bloom filters
 - [Document](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/be09dbbc505186db1759e3180948660485e87d94/Seminari/Strukture%20podataka%20-%20Bloomovi%20filteri.pdf)
