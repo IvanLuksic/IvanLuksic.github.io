@@ -1,7 +1,7 @@
-# :link: Links
+# 🔗 Links
 
 - [Github](https://github.com/IvanLuksic) 
-- [LinkedIn](linkedin.com/in/ivanluksic/)
+- [LinkedIn](https://www.linkedin.com/in/ivanluksic/)
 
 # 📄 Master's thesis
 
