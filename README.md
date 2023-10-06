@@ -3,7 +3,7 @@
 - [Github](https://github.com/IvanLuksic) 
 - [LinkedIn](linkedin.com/in/ivanluksic/)
 
-# :page_facing_up: Master's thesis
+# 📄 Master's thesis
 
 ### Training generative models with masking for AML-MRD detection in FCM data
 - [Document](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/main/Seminari/Master's%20thesis%20-%20IL.pdf)
