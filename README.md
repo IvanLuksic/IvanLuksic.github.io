@@ -17,6 +17,9 @@
 - [LLMs in Medicine - document](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/main/Seminari/LLM_u_medicini.pdf)
 - Since the seminar Med-PaLM 2 has been [released](https://arxiv.org/pdf/2305.09617.pdf)
 
+### Wireless Network Security - Security of wireless medical devices 
+- [Security of wireless medical devices - document](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/main/Seminari/Sigurnost_be%C5%BEi%C4%8Dnih_medicinskih_ure%C4%91aja.pdf)
+
 ### Computational intelligence - Echocardiogram segmentation - Code dissemination 
 - [Colaboratory](https://colab.research.google.com/drive/1LtSaJN4dbfKi_GxSPR-k3ukVkU2RT5sF?usp=sharing)
 
@@ -30,6 +33,10 @@
 ### Human-computer interaction - Team Rocket
 - [Repository](https://github.com/IvanLuksic/pokemonHCI)
 - [Page](https://team-rocket.vercel.app/)
+
+### Final work - Web application preuzmiMe
+- [Repository](https://github.com/IvanLuksic/preuzmiMe)
+- [Document](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/main/Seminari/zavr%C5%A1ni-rad-preuzmime.pdf)  
 
 ### Data structures - Bloom filters
 - [Document](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/be09dbbc505186db1759e3180948660485e87d94/Seminari/Strukture%20podataka%20-%20Bloomovi%20filteri.pdf)
