@@ -11,7 +11,7 @@
 # 📂 Seminars
 
 ### Scientific presentation and communication - Automatic Minimal Residual Disease Assessment in Acute Myeloid Leukemia on Flow Cytometry Data: A Comparison
-- [SPCOM seminar]()
+- [SPCOM seminar](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/main/Seminari/SPCOM_Seminar%20(1).pdf)
 
 ### Medical electronic devices - LLMs in Medicine 
 - [LLMs in Medicine - document](https://github.com/IvanLuksic/IvanLuksic.github.io/blob/main/Seminari/LLM_u_medicini.pdf)
